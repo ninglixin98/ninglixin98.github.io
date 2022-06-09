@@ -6,7 +6,7 @@
   <link href="https://ninglixin98.github.io/atom.xml" rel="self"/>
   
   <link href="https://ninglixin98.github.io/"/>
-  <updated>2022-06-09T13:30:44.160Z</updated>
+  <updated>2022-06-09T13:40:22.100Z</updated>
   <id>https://ninglixin98.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://ninglixin98.github.io/2022/06/09/DET1/"/>
     <id>https://ninglixin98.github.io/2022/06/09/DET1/</id>
     <published>2022-06-09T13:11:01.000Z</published>
-    <updated>2022-06-09T13:30:44.160Z</updated>
+    <updated>2022-06-09T13:40:22.100Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="数字电子技术基础-——-第一章-数制和码制"><a href="#数字电子技术基础-——-第一章-数制和码制" class="headerlink" title="数字电子技术基础 —— 第一章 数制和码制"></a>数字电子技术基础 —— 第一章 数制和码制</h1><h2 id="1-1-概述"><a href="#1-1-概述" class="headerlink" title="1.1 概述"></a>1.1 概述</h2><h3 id="1-1-1-数字电路中的信息可以分为数值信息和非数值信息。"><a href="#1-1-1-数字电路中的信息可以分为数值信息和非数值信息。" class="headerlink" title="1.1.1 数字电路中的信息可以分为数值信息和非数值信息。"></a>1.1.1 数字电路中的信息可以分为数值信息和非数值信息。</h3><ul><li><p>数值信息：数制</p></li><li><p>非数值信息：编码</p><h2 id="1-2-几种常见的数制"><a href="#1-2-几种常见的数制" class="headerlink" title="1.2 几种常见的数制"></a>1.2 几种常见的数制</h2></li><li><p>十进制</p></li><li><p>二进制</p></li><li><p>八进制</p></li><li><p>十六进制</p><h2 id="1-3-不同数制间的转换"><a href="#1-3-不同数制间的转换" class="headerlink" title="1.3 不同数制间的转换"></a>1.3 不同数制间的转换</h2><h3 id="1-3-1-任意进制转十进制"><a href="#1-3-1-任意进制转十进制" class="headerlink" title="1.3.1 任意进制转十进制"></a>1.3.1 任意进制转十进制</h3></li><li><p>方法：利用位权展开。</p></li><li><p><img src="/.io//1.png" alt="二进制转十进制"></p></li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="数字电子技术基础-——-第一章-数制和码制"><a href="#数字电子技术基础-——-第一章-数制和码制" class="headerlink" title="数字电子技术基础 —— 第一章 数制和码制"></a>数字电子技术基础 —— 第一章 数制和码制</h1><h2 id="1-1-概述"><a href="#1-1-概述" class="headerlink" title="1.1 概述"></a>1.1 概述</h2><h3 id="1-1-1-数字电路中的信息可以分为数值信息和非数值信息。"><a href="#1-1-1-数字电路中的信息可以分为数值信息和非数值信息。" class="headerlink" title="1.1.1 数字电路中的信息可以分为数值信息和非数值信息。"></a>1.1.1 数字电路中的信息可以分为数值信息和非数值信息。</h3><ul><li><p>数值信息：数制</p></li><li><p>非数值信息：编码</p><h2 id="1-2-几种常见的数制"><a href="#1-2-几种常见的数制" class="headerlink" title="1.2 几种常见的数制"></a>1.2 几种常见的数制</h2></li><li><p>十进制</p></li><li><p>二进制</p></li><li><p>八进制</p></li><li><p>十六进制</p><h2 id="1-3-不同数制间的转换"><a href="#1-3-不同数制间的转换" class="headerlink" title="1.3 不同数制间的转换"></a>1.3 不同数制间的转换</h2><h3 id="1-3-1-任意进制转十进制"><a href="#1-3-1-任意进制转十进制" class="headerlink" title="1.3.1 任意进制转十进制"></a>1.3.1 任意进制转十进制</h3></li><li><p>方法：利用位权展开。</p></li><li><p><img src="/.io//1.png" alt="二进制转十进制"></p><h3 id="1-3-2-十进制转任意进制"><a href="#1-3-2-十进制转任意进制" class="headerlink" title="1.3.2 十进制转任意进制"></a>1.3.2 十进制转任意进制</h3></li><li><p>整数部分</p><ul><li>方法：基数乘除法。整数除以R取余数，小数乘以R取整数。</li><li><img src="/.io//2.png" alt="十进制转二进制"></li><li>余数 K0-K7 是从低位到高位排列。</li></ul></li></ul>]]></content>
     
     
     <summary type="html">数电第一章学习笔记，整理为markdown形式，原文件为Xmind，可从我的github主页下载</summary>
