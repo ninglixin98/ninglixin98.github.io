@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>宁立新的个人博客</title>
   
-  
+  <subtitle>IC</subtitle>
   <link href="https://ninglixin98.github.io/atom.xml" rel="self"/>
   
   <link href="https://ninglixin98.github.io/"/>
